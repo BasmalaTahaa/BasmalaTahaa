@@ -147,7 +147,7 @@ Author of two peer-reviewed publications.
 
 <div align="center">
 
-[![COMO-RL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Genome--Scale-Metabollic-Model-prototype&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Genome--Scale-Metabollic-Model-prototype)
+[![COMO-RL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=PUT_CORRECT_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/PUT_CORRECT_REPO_NAME)
 
 [![Skintelix](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Skintelix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Skintelix)
 
