@@ -4,21 +4,15 @@
 <!--                        BANNER HEADER                          -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=200&section=header&text=Hi%20there%2C%20I'm%20YOUR_NAME%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Enthusiast&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Basmala%20Taha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20AI%20Engineer%20%7C%20Optimization%20Enthusiast&descAlignY=58&descSize=18&descColor=e2d9f3" width="100%" alt="Header Banner"/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                     TYPING ANIMATION                          -->
-<!-- ══════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7c3aed&center=true&vCenter=true&random=false&width=650&lines=Bioinformatics+%2B+AI+%3D+Biology+meets+Intelligence+%F0%9F%A7%AC%F0%9F%A4%96;Obsessed+with+Optimization+%26+Algorithms+%E2%9A%99%EF%B8%8F;Published+Researcher+%7C+Builder+%7C+Lifelong+Learner+%F0%9F%93%96;From+DNA+sequences+to+Deep+Learning+pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&random=false&width=600&lines=Building+things+that+matter+%F0%9F%9A%80;Clean+code+%7C+Bold+ideas+%7C+Real+impact;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
+<br/>
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      PROFILE VIEWS                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=6e40c9&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=6e40c9)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=flat-square&color=6e40c9)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=BasmalaTahaa&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/BasmalaTahaa?label=Followers&style=flat-square&color=7c3aed)](https://github.com/BasmalaTahaa?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/BasmalaTahaa?label=Stars&style=flat-square&color=7c3aed)](https://github.com/BasmalaTahaa?tab=repositories)
 
 </div>
 
@@ -28,24 +22,28 @@
 <!--                        ABOUT ME                               -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-## 🧑‍💻 About Me
+## 🧬 About Me
 
 ```yaml
-name       : "YOUR_FULL_NAME"
-location   : "YOUR_CITY, YOUR_COUNTRY 🌍"
-role       : "YOUR_ROLE (e.g. Full-Stack Developer)"
-focus      : "Building scalable web apps & clean developer experiences"
-learning   : "YOUR_CURRENT_LEARNING (e.g. Rust, LLMs, System Design)"
-available  : true  # Open to new opportunities
+name         : "Basmala Taha"
+location     : "Egypt 🇪🇬"
+university   : "Egypt Japan University of Science & Technology (E-JUST)"
+degree       : "B.Sc. Computer Science — Major in Bioinformatics (2022 – 2026)"
+role         : "Bioinformatician & AI Engineer"
+passion      : "Optimization · Algorithms · AI · Computational Biology"
+publications : 2   # Peer-reviewed & published ✅
+currently    : "COMO-RL — RL for Multi-Gene Metabolic Target Discovery"
+superpower   : "Bridging biological systems with intelligent algorithms"
 ```
 
 <br/>
 
-- 🔭 Currently working on **[YOUR_PROJECT](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT)**
-- 🌱 Exploring **YOUR_CURRENT_INTERESTS** (e.g. AI tooling, distributed systems)
-- 💬 Ask me about **YOUR_EXPERTISE** (e.g. React, Node.js, APIs, DevOps)
-- ⚡ Fun fact: **YOUR_FUN_FACT**
-- 📫 Reach me at **your.email@example.com**
+- 🔬 Fascinated by **optimization algorithms** and how they unlock AI's true potential
+- 🧠 Working at the intersection of **bioinformatics, deep learning, and reinforcement learning**
+- 📄 **2× published researcher** in international peer-reviewed conferences (JAC-ECC, 3SCEA)
+- 🏆 Selected among **top 20 out of 400+** applicants at Ibn Sina Neurotech School (BCI & EEG)
+- ☁️ Trained on **AWS SageMaker** (180 hrs) and certified in Big Data & Data Analysis
+- 💡 Always asking: *"Can we make this smarter, faster, and more elegant?"*
 
 ---
 
@@ -57,33 +55,43 @@ available  : true  # Open to new opportunities
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- Add or remove languages as needed -->
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### AI · Machine Learning · Deep Learning
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-7c3aed?style=for-the-badge&logoColor=white)
 
-### Backend
+### Bioinformatics
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-<!-- Add Django / Flask / NestJS etc. as needed -->
+![Bioconductor](https://img.shields.io/badge/Bioconductor-2E9FDF?style=for-the-badge&logoColor=white)
+![COBRApy](https://img.shields.io/badge/COBRApy-27AE60?style=for-the-badge&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-### Databases & Storage
+### Data Analysis & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -93,16 +101,42 @@ available  : true  # Open to new opportunities
 
 ## ⚙️ Tools & Platforms
 
+![AWS](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1a1a1a?style=for-the-badge&logo=cursor&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                      PUBLICATIONS                             -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
+## 📄 Peer-Reviewed Publications
+
+<table>
+<tr>
+<td width="50px" align="center">📰</td>
+<td>
+<b>Stacked Ensemble of Pretrained Base Models with Hyperparameter Optimization: Logistic Regression vs. LightGBM Meta-Learner Performance</b><br/>
+<sub><i>Proc. International Japan-Africa Conference on Electronics, Communications and Computations (JAC-ECC), 2025</i></sub>
+</td>
+</tr>
+<tr>
+<td align="center">📰</td>
+<td>
+<b>Extending Wavefront Alignment Beyond Edit Distance via Score-Guided Pruning</b><br/>
+<sub><i>Proc. IEEE International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA), 2026</i></sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,15 +148,26 @@ available  : true  # Open to new opportunities
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME and REPO_NAME with real values -->
+[![COMO-RL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=COMO-RL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/COMO-RL)
+[![Skintelix](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Skintelix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Skintelix)
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_2)
-
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_3)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_4)
+[![LLM-Research-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=LLM-Research-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/LLM-Research-Assistant)
+[![Predictive-Maintenance-DL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Predictive-Maintenance-DL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Predictive-Maintenance-DL)
 
 </div>
+
+<br/>
+
+### Project Highlights
+
+| Project | Stack | Highlight |
+|---|---|---|
+| 🧬 **COMO-RL** | Python, COBRApy, Deep RL | RL agent for multi-gene metabolic target discovery using FBA/MoMA simulations |
+| 🩺 **Skintelix** | PyTorch, LightGBM, Optuna, Streamlit | Stacked ensemble (ConvNeXt + EfficientNet + ResNet) skin classifier web app |
+| 🤖 **LLM Research Assistant** | Python, GPT, LangChain, Qdrant | Groq-powered pipeline for semantic paper summarization & comparison |
+| ⚙️ **Predictive Maintenance** | GRU, CNN-LSTM, Optuna, WOA | 97.6% balanced accuracy on NASA C-MAPSS FD004 engine health dataset |
+| 🧠 **Arabic Inner Speech BCI** | EEG, BCI, ML | EEG-based classifier for Arabic inner speech recognition & signal processing |
+| ❤️ **CVD Benchmarking Study** | ML, Data Analysis | Reproduced CVD prediction models with 0.98 accuracy across 3 clinical datasets |
 
 ---
 
@@ -134,9 +179,9 @@ available  : true  # Open to new opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&icon_color=6e40c9&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BasmalaTahaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasmalaTahaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -144,7 +189,7 @@ available  : true  # Open to new opportunities
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=ff6b6b&currStreakLabel=6e40c9&sideNums=c9d1d9&currStreakNum=ffffff&dates=6e7681&sideLabels=6e7681)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BasmalaTahaa&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=ff6b6b&currStreakLabel=7c3aed&sideNums=c9d1d9&currStreakNum=ffffff&dates=6e7681&sideLabels=6e7681)](https://git.io/streak-stats)
 
 </div>
 
@@ -158,12 +203,10 @@ available  : true  # Open to new opportunities
 
 <div align="center">
 
-<!-- This requires the snake workflow to be set up in your repo -->
-<!-- Setup guide: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/BasmalaTahaa/BasmalaTahaa/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BasmalaTahaa/BasmalaTahaa/output/github-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/BasmalaTahaa/BasmalaTahaa/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -172,7 +215,7 @@ available  : true  # Open to new opportunities
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=6e40c9&line=6e40c9&point=c9d1d9&area=true&area_color=6e40c9&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BasmalaTahaa&bg_color=0d1117&color=7c3aed&line=7c3aed&point=c9d1d9&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -186,24 +229,18 @@ available  : true  # Open to new opportunities
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Twitter / X](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BasmalaTahaa)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BasmalaTahaa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER BANNER                            -->
-<!-- ══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6e40c9,100:0d1117&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"The beauty of biology is that it's just optimization problems waiting to be solved."* 🧬⚙️
 
 </div>
