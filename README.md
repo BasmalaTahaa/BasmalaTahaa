@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=200&section=header&text=Hi%2C%20I'm%20Basmala%20Taha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Bioinformatician%20%7C%20AI%20Engineer%20%7C%20Optimization%20Enthusiast&descAlignY=58&descSize=18&descColor=e2d9f3" width="100%" alt="Header Banner"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7c3aed&center=true&vCenter=true&random=false&width=650&lines=Bioinformatics+%2B+AI+%3D+Biology+meets+Intelligence+%F0%9F%A7%AC%F0%9F%A4%96;Obsessed+with+Optimization+%26+Algorithms+%E2%9A%99%EF%B8%8F;Published+Researcher+%7C+Builder+%7C+Lifelong+Learner+%F0%9F%93%96;From+DNA+sequences+to+Deep+Learning+pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7c3aed&center=true&vCenter=true&random=false&width=650&lines=Bioinformatics+%2B+AI+%3D+Biology+meets+Intelligence+%F0%9F%A7%AC%F0%9F%A4%96;%E2%9A%99%EF%B8%8F;Published+Researcher+%7C+Builder+%7C+Lifelong+Learner+%F0%9F%93%96;From+DNA+sequences+to+Deep+Learning+pipelines+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
