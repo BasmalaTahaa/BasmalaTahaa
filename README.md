@@ -146,14 +146,16 @@ Author of two peer-reviewed publications.
 ## Featured Projects
 
 <div align="center">
+## Featured Projects
 
-[![COMO-RL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Genome-Scale-Metabolic-Model-Prototype&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Genome-Scale-Metabolic-Model-Prototype)
+### [COMO-RL](https://github.com/BasmalaTahaa/Genome-Scale-Metabolic-Model-Prototype)
+Reinforcement learning framework for multi-gene metabolic target discovery using genome-scale metabolic models.
 
-[![Skintelix](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Skintelix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Skintelix)
+### [Skintelix](https://github.com/BasmalaTahaa/Skintelix)
+AI-driven skin disease classification system using deep learning and ensemble modeling.
 
-
-
-[![Predictive-Maintenance-DL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=EarlyFailureDetection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/EarlyFailureDetection)
+### [EarlyFailureDetection](https://github.com/BasmalaTahaa/EarlyFailureDetection)
+Predictive maintenance project for early failure detection using deep learning models.
 </div>
 
 <br/>
