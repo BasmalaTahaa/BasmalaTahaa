@@ -25,15 +25,18 @@
 ## 🧬 About Me
 
 ```yaml
-name         : "Basmala Taha"
-location     : "Egypt 🇪🇬"
-university   : "Egypt Japan University of Science & Technology (E-JUST)"
-degree       : "B.Sc. Computer Science — Major in Bioinformatics (2022 – 2026)"
-role         : "Bioinformatician & AI Engineer"
-passion      : "Optimization · Algorithms · AI · Computational Biology"
-publications : 2   # Peer-reviewed & published ✅
-currently    : "COMO-RL — RL for Multi-Gene Metabolic Target Discovery"
-superpower   : "Bridging biological systems with intelligent algorithms"
+## About Me
+
+Basmala Taha  
+Bioinformatician and AI Engineer
+
+B.Sc. in Computer Science (Bioinformatics), Egypt-Japan University of Science and Technology (2022–2026)
+
+I am interested in optimization, algorithms, and artificial intelligence, with a focus on computational biology. My work combines machine learning and algorithmic approaches to solve complex biological and real-world problems.
+
+Currently working on COMO-RL, a reinforcement learning framework for multi-gene metabolic target discovery.
+
+Author of two peer-reviewed publications.
 ```
 
 <br/>
@@ -68,31 +71,6 @@ superpower   : "Bridging biological systems with intelligent algorithms"
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Machine Learning & AI Systems**
-Supervised & Unsupervised Learning  
-Deep Learning Architectures  
-Representation Learning • Sequence Modeling  
-
-**Modern AI Paradigms**
-Transformers • State Space Models (Mamba)  
-Agentic AI Systems • LLM-based Pipelines  
-Retrieval-Augmented Generation (RAG)
-
-**Reinforcement Learning & Decision Systems**
-Learning-based Optimization  
-Sequential Decision-Making  
-Adaptive Policy Learning
-
-**Optimization**
-Hyperparameter Optimization  
-Metaheuristics & Search Algorithms  
-Efficient Model & Pipeline Optimization
-
-**Advanced Topics**
-Federated Learning • Distributed AI  
-Bioinformatics & Computational Biology  
-Time Series & Signal Processing
 
 ### Bioinformatics
 
