@@ -231,7 +231,8 @@ Predictive maintenance project for early failure detection using deep learning m
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/BasmalaTahaa](https://www.linkedin.com/in/basmala-taha-796a701b2/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/basmala-taha-796a701b2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basmala.taha@ejust.edu.eg)
 
 </div>
