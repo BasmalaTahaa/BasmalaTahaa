@@ -231,9 +231,8 @@ Predictive maintenance project for early failure detection using deep learning m
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BasmalaTahaa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BasmalaTahaa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/BasmalaTahaa](https://www.linkedin.com/in/basmala-taha-796a701b2/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basmala.taha@ejust.edu.eg)
 
 </div>
 
@@ -243,6 +242,6 @@ Predictive maintenance project for early failure detection using deep learning m
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=100&section=footer" width="100%" alt="Footer"/>
 
-*"The beauty of biology is that it's just optimization problems waiting to be solved."* 🧬⚙️
+*"The beauty of biology is that it's just optimization problems waiting to be solved."* 
 
 </div>
