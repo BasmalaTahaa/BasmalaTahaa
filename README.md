@@ -68,8 +68,31 @@ superpower   : "Bridging biological systems with intelligent algorithms"
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-7c3aed?style=for-the-badge&logoColor=white)
+
+**Machine Learning & AI Systems**
+Supervised & Unsupervised Learning  
+Deep Learning Architectures  
+Representation Learning • Sequence Modeling  
+
+**Modern AI Paradigms**
+Transformers • State Space Models (Mamba)  
+Agentic AI Systems • LLM-based Pipelines  
+Retrieval-Augmented Generation (RAG)
+
+**Reinforcement Learning & Decision Systems**
+Learning-based Optimization  
+Sequential Decision-Making  
+Adaptive Policy Learning
+
+**Optimization**
+Hyperparameter Optimization  
+Metaheuristics & Search Algorithms  
+Efficient Model & Pipeline Optimization
+
+**Advanced Topics**
+Federated Learning • Distributed AI  
+Bioinformatics & Computational Biology  
+Time Series & Signal Processing
 
 ### Bioinformatics
 
@@ -90,7 +113,6 @@ superpower   : "Bridging biological systems with intelligent algorithms"
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
@@ -110,8 +132,7 @@ superpower   : "Bridging biological systems with intelligent algorithms"
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 
 ---
 
@@ -148,12 +169,13 @@ superpower   : "Bridging biological systems with intelligent algorithms"
 
 <div align="center">
 
-[![COMO-RL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=COMO-RL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/COMO-RL)
+[![COMO-RL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Genome--Scale-Metabollic-Model-prototype&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Genome--Scale-Metabollic-Model-prototype)
+
 [![Skintelix](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Skintelix&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Skintelix)
 
-[![LLM-Research-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=LLM-Research-Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/LLM-Research-Assistant)
-[![Predictive-Maintenance-DL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=Predictive-Maintenance-DL&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/Predictive-Maintenance-DL)
 
+
+[![Predictive-Maintenance-DL](https://github-readme-stats.vercel.app/api/pin/?username=BasmalaTahaa&repo=EarlyFailureDetection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&icon_color=7c3aed)](https://github.com/BasmalaTahaa/EarlyFailureDetection)
 </div>
 
 <br/>
@@ -162,12 +184,12 @@ superpower   : "Bridging biological systems with intelligent algorithms"
 
 | Project | Stack | Highlight |
 |---|---|---|
-| 🧬 **COMO-RL** | Python, COBRApy, Deep RL | RL agent for multi-gene metabolic target discovery using FBA/MoMA simulations |
-| 🩺 **Skintelix** | PyTorch, LightGBM, Optuna, Streamlit | Stacked ensemble (ConvNeXt + EfficientNet + ResNet) skin classifier web app |
-| 🤖 **LLM Research Assistant** | Python, GPT, LangChain, Qdrant | Groq-powered pipeline for semantic paper summarization & comparison |
-| ⚙️ **Predictive Maintenance** | GRU, CNN-LSTM, Optuna, WOA | 97.6% balanced accuracy on NASA C-MAPSS FD004 engine health dataset |
-| 🧠 **Arabic Inner Speech BCI** | EEG, BCI, ML | EEG-based classifier for Arabic inner speech recognition & signal processing |
-| ❤️ **CVD Benchmarking Study** | ML, Data Analysis | Reproduced CVD prediction models with 0.98 accuracy across 3 clinical datasets |
+| **COMO-RL** | Python, COBRApy, Deep RL | RL agent for multi-gene metabolic target discovery using FBA/MoMA simulations |
+| **Skintelix** | PyTorch, LightGBM, Optuna, Streamlit | Stacked ensemble (ConvNeXt + EfficientNet + ResNet) skin classifier web app |
+| **LLM Research Assistant** | Python, GPT, LangChain, Qdrant | Groq-powered pipeline for semantic paper summarization & comparison |
+| **Predictive Maintenance** | GRU, CNN-LSTM, Optuna, WOA | 97.6% balanced accuracy on NASA C-MAPSS FD004 engine health dataset |
+| **Arabic Inner Speech BCI** | EEG, BCI, ML | EEG-based classifier for Arabic inner speech recognition & signal processing |
+| **CVD Benchmarking Study** | ML, Data Analysis | Reproduced CVD prediction models with 0.98 accuracy across 3 clinical datasets |
 
 ---
 
